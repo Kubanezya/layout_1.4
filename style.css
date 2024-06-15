@@ -18,6 +18,7 @@ body{
     display: flex;
     flex-direction: column;
     font-family: TTLakes,serif;
+    font-weight: 500;
     font-size: 16px;
     letter-spacing: -0.2px; 
     line-height: 24px; 
